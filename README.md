@@ -21,4 +21,4 @@ Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/
 - Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/After%20movement.png) to see the robot leg when the angle is 24.95 
 
 ## Parts lengths:
-- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Parts%20lengths.jpg) to see my suggestion for parts lengths of the robot leg.
+- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Parts%20lengths%20.jpg) to see my suggestion for parts lengths of the robot leg.
