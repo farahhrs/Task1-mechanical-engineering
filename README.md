@@ -4,4 +4,10 @@ Click [here](https://cad.onshape.com/documents/9648865d3515d1519fbdd117/w/0e3614
 
 
 ### Movement angle:
-I found the angle of movement depending on inverse kinematics, I assumed that we want to move robot's leg to the coordinate point: (57.55, 28). The the  value of x is 57.55 and the value of y is 28. As given to us that the length of the robot leg is 64 cm, now we have three values that represent the side lengths of a right-angled traingle. Depending on phitagors theory we can find the angle of the movement, Sin 𝜃 =
+I found the angle of movement based on inverse kinematics, I assumed that we want to move robot's leg to the point: (57.55, 28) on the ؤartesian coordinate system. The the  value of x is 57.55 and the value of y is 28. As given to us that the length of the robot leg is 64 cm, now we have three values that represent the side lengths of a right-angled traingle. Depending on the trigonometric functions of right-angled traingle we can find the angle of the movement:
+
+sin 𝜃 = opposite side/ hypotenuse
+sin 𝜃 = 28/64
+𝜃 = arcsin(28/64)
+𝜃 = 25.94°
+
