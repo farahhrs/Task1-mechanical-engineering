@@ -17,7 +17,7 @@ Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/
 ## Animate robot leg:
 - Click [here](https://cad.onshape.com/documents/9648865d3515d1519fbdd117/w/0e36142ff93126735fae55e8/e/e9efa5639bf8b6ff610eaf11?renderMode=0&uiState=62d1e499bef4ec472d1a1db6) to access my 3D design for robot legs.
 - Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Movement%20animation.gif) to see the animation of the leg.
-- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Before%20movement.jpg) to see the robot leg when the angle is 0
+- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Before%20movement.png) to see the robot leg when the angle is 0
 - Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/After%20movement.png) to see the robot leg when the angle is 24.95 
 
 ## Parts lengths:
