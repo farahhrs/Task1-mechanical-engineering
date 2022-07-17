@@ -18,6 +18,6 @@ sin 𝜃 = 28/64
 Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Movement%20angle.jpg) to see the representation of points on the Cartesian coordinate system.
 
 ## Animate robot leg
-- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Movement%20animation.gif) to seethe animation of the leg.
-- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Before%20movement.jpg) to see the robot leg when the angle of movement is 0
-- - Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/After%20movement.jpg) to see the robot leg when the angle of movement is 24.95 
+- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Movement%20animation.gif) to see the animation of the leg.
+- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Before%20movement.jpg) to see the robot leg when the angle is 0
+- Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/After%20movement.jpg) to see the robot leg when the angle is 24.95 
